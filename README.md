@@ -4,5 +4,5 @@ Just a very simple demo of combining Gwt 2.8 with Openlayers 3
 
 # Usage
 
-mvn package
-mvn gwt:run 
+  * mvn package
+  * mvn gwt:run 
