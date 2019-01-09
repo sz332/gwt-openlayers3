@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to="GwtOpenlayers3Demo">
+  <!-- Inherit our applications main module.                      -->
+  <inherits name='com.acme.gwt.GwtOpenlayers3Demo' />
+
+  <!-- Specify the path to any remote services.                   -->
+  <servlet path="/GwtOpenlayers3Demo/greet" class="com.acme.gwt.server.GreetingServiceImpl" />
+
+</module>
